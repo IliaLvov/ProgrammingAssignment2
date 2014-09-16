@@ -12,6 +12,8 @@
 ## Store a result of makeCacheMatrix(mat1) in another object (e.g. "cachemat1")
 ## Pass cachemat1 down the cacheSolve function
 
+## ACKNOWLEDGEMENT:
+## The code below is inspired by the example code for the Assignment
 
 ## makeCacheMatrix
 ## This function creates a list of functions to pass values between the environments
